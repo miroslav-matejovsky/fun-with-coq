@@ -9,8 +9,3 @@ Print a.
 Check example1.
 
 Compute (example1 5).
-
-
-
-
-

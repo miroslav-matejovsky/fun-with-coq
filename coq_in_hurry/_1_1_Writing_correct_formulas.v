@@ -32,3 +32,7 @@ Check (let f := fun x => (x * 3, x) in f 3): nat * nat.
 Locate "_ /\ _".
 
 Locate "_ \/ _".
+
+Locate "_ <= _".
+
+Check (and True False).

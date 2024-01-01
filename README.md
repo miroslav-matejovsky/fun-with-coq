@@ -1,6 +1,7 @@
 # Fun with Coq
 
 - [VS Code plugin](https://github.com/coq-community/vscoq)
+- [Coq in a hurry](https://cel.hal.science/inria-00001173)
 
 ## TODO
 
